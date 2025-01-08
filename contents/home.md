@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Information Systems at the Leavey School of Business, Santa Clara University, USA.
 
 #### Email
-jli25[at]scu.edu
+jli25@scu.edu
 
 #### Education
 M.S., Information Systems, Santa Clara University, USA, 2024—2026 (expected).  

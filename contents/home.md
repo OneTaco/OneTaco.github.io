@@ -8,8 +8,12 @@ He is currently pursuing a Master's Degree in Information Systems at the Leavey 
 jli25@scu.edu
 
 #### Education
-M.S., Information Systems, Santa Clara University, USA, 2024—2026 (expected).  
-B.Sc., Science, University of Manitoba, Canada, 2018—2024.
+M.S., Information Systems, Santa Clara University, USA, 2024–2026 (expected).  
+B.Sc., Science, University of Manitoba, Canada, 2018–2024.
 
 #### Research Interests
 Data Visualization, Big Data Analytics, Natural Language Processing.
+
+---
+
+#### 📄 [Download CV](https://onetaco.github.io/static/LI%20JINRUI.pdf)

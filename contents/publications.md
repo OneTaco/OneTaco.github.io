@@ -1,6 +1,6 @@
 #### Publications
 
-- **J. Li**, "The Rise of E-Sports: The Transformation from Leisure Entertainment to a Global Sports Phenomenon," *Lecture Notes in Education Psychology and Public Media*, Print ISSN 2753-7048, March 2024. [[Paper](https://doi.org/10.1007/springer_link)].
+- **J. Li**, "The Rise of E-Sports: The Transformation from Leisure Entertainment to a Global Sports Phenomenon," *Lecture Notes in Education Psychology and Public Media*, Print ISSN 2753-7048, March 2024. [[Paper](https://www.ewadirect.com/proceedings/lnep/article/view/10519)].
 
 #### Academic Projects
 
